@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BuildMediaInfo": {
+      "commandName": "Project",
+      "commandLineArgs": "/folder=\"\\\\andromeda.sharenet.priv\\Films\\Action, Aventure\\[Aventuriers]\""
+    }
+  }
+}

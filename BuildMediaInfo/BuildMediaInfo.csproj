@@ -8,4 +8,12 @@
     <EnablePreviewFeatures>true</EnablePreviewFeatures>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="BLTools" Version="6.0.3-beta5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MediaInfoLib\MediaInfoLib.csproj" />
+  </ItemGroup>
+
 </Project>
